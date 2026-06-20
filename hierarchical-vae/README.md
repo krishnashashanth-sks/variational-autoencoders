@@ -191,10 +191,6 @@ Total loss = L_recon + KL(z1) + KL(z2)
 - Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes. arXiv preprint arXiv:1312.6114.
 - Burda, Y., Grosse, R., & Salakhutdinov, R. (2015). Importance Weighted Autoencoders. arXiv preprint arXiv:1509.00519.
 
-## License
-
-This project is open source and available under the MIT License.
-
 ## Author
 
 Krishna Shashanth (@krishnashashanth-sks)
